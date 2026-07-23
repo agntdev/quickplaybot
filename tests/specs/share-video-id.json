@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Share",
+    "steps": [
+      {
+        "expect": [
+          {
+            "method": "sendMessage",
+            "payload": {
+              "text": "Copy short link for video"
+            }
+          }
+        ],
+        "send": {
+          "callback": "share:video_id"
+        }
+      }
+    ]
+  }
+]
