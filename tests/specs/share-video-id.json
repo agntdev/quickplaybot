@@ -5,9 +5,12 @@
       {
         "expect": [
           {
+            "method": "answerCallbackQuery"
+          },
+          {
             "method": "sendMessage",
             "payload": {
-              "text": "Copy short link for video"
+              "text": "This video link has expired or been removed."
             }
           }
         ],
