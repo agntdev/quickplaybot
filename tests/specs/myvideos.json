@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Show user's recent video records"
+              "text": "No videos yet — paste a URL to add one."
             }
           }
         ],

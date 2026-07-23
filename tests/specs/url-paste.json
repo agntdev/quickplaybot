@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Trigger video processing when user sends a URL in chat"
+              "text": "Paste a video URL and I'll process it for you.\n\nSupported formats: YouTube, Vimeo, Dailymotion, and most video sites."
             }
           }
         ],

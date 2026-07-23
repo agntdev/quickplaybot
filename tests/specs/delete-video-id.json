@@ -5,9 +5,12 @@
       {
         "expect": [
           {
+            "method": "answerCallbackQuery"
+          },
+          {
             "method": "sendMessage",
             "payload": {
-              "text": "Remove video record and invalidate link"
+              "text": "This video link has already been removed."
             }
           }
         ],
